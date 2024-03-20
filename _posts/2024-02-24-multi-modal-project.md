@@ -67,17 +67,25 @@ image: assets/images/post/8th-builder/yewonhong/multimodal.png
 | 주차   | Contents                                                 |
 |-------|----------------------------------------------------------|
 | 1주차  | OT (스터디 소개/방향 논의, Ice Breaking)                       |
-| 2주차  | Chapter 1, 2. Introduction to Multimodal Research        |
-| 3주차  | Chapter 3. Understanding Multimodal Data                 |
-| 4주차  | Chapter 4, 5. Multimodal Data Fusion Techniques (ft. LLM)|
-| 5주차  | Chapter 6. Case Studies and Real-world Application       |
-| 6주차  | Chapter 7. Diffusion Models                              |
-| 7주차  | Chapter 8. Reinforcement Learning and Multimodal Data    |
+| 2주차  | Chapter 1, 2. Introduction to Multimodal Research - image <-> Text (CLIP, CLIPPO,..)    |
+| 3주차  | Chapter 3. Understanding Multimodal Data - Conceptual Captions[*123], COCO[*124], VQA, Visual Genome..  다양한 양식: Pano-AVQA             |
+| 4주차  | Chapter 4, 5. Multimodal Data Fusion Techniques (ft. LLM) - How to  Autoregressive Transformers (Vanilla, visual domain, Vit, VideoBERT, CLIP ..|
+| 5주차  | Chapter 6. Case Studies and Real-world Application - DALL-E2, webQA, GPT-4V,.. : interactive multimedia, image-based chatbot      |
+| 6주차  | Chapter 7. Diffusion Models - [논문: Understanding Diffusion Objectives as the ELBO with Simple Data Augmentation](https://arxiv.org/abs/2303.00848) or Google's Imagen                             |
+| 7주차  | Chapter 8. Reinforcement Learning and Multimodal Data - [MIT lecture](https://www.youtube.com/watch?v=xWe58WGWmlk&list=PLkkuNyzb8LmxFutYuPA7B4oiMn6cjD6Rs&index=4) , [논문: Can Pre-Trained Text-to-Image Models Generate Visual Goals for Reinforcement Learning?](https://arxiv.org/abs/2307.07837)   |
 | 8주차  | 중간 리뷰 타임                                               |
-| 9주차  | Chapter 9. Diffusion Models in Depth (1) or Team Project |
+| 9주차  | Chapter 9. Diffusion Models in Depth (1) or Team Project  |
 | 10주차 | Chapter 10. Diffusion Models in Depth (2) or Team Project|
 | 11주차 | Chapter 11. Reinforcement Learning in Depth (1) or Team Project|
 | 12주차 | Chapter 12. Reinforcement Learning in Depth (2) or Team Project|
 | 13주차 | Chapter 13. Team Project                                 |
 | 14주차 | Chapter 14. Team Project                                 |
 | 15주차 | 회고 및 최종 리뷰                                            |
+
+
+* [123] P. Sharma, N. Ding, S. Goodman, and R. Soricut, “Conceptual
+captions: A cleaned, hypernymed, image alt-text dataset for
+automatic image captioning,” in ACL, 2018.
+* [124] T.-Y. Lin, M. Maire, S. Belongie, J. Hays, P. Perona, D. Ramanan,
+P. Doll´ar, and C. L. Zitnick, “Microsoft coco: Common objects in
+context,” in ECCV, 2014
